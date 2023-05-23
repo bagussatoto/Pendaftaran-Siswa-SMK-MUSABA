@@ -19,8 +19,15 @@
 <!-- End -->
 
 # Pembuat Aplikasi Website
-**BAGUS BUDI SATOTO** Selaku Alumni SMK MUHAMMADIYAH 1 BANTUL, saya mengakui bahwa aplikasi ini bermanfaat bagi para siswa SMK MUHAMMADIYAH 1 BANTUL. 
-Dibuat Oleh https://github.com/bagussatoto Selaku Enginnering Web dan Mobile.
+
+
+|        |    |
+|----------------|----------------------------------|
+| Nama           | Bagus Budi Satoto                |
+| Jurusan        | S1 - Informatika                 |
+| Kampus         | Universitas Amikom Yogyakarta    |
+
+
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 

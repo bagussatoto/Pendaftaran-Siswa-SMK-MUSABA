@@ -105,7 +105,7 @@ Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan b
 
 ### Berdasarkan ketentuan berikut:
 
-- **Atribusi** - Anda harus mencantumkan nama pencipta dan para kontributor serta mencantumkan tautan lisensi **CC BY-NC-SA** (tautan sudah ada di _footer_ pada aplikasi).
+- **Atribusi** - Anda harus mencantumkan nama pencipta dan para kontributor serta mencantumkan tautan [**lisensi**](https://github.com/bagussatoto/Pendaftaran-Siswa-/blob/main/LICENSE.txt).
 - **NonKomersial** - Anda tidak dapat menggunakan produk ini untuk kepentingan komersial (yaitu penggunaan yang ditujukan untuk memperoleh keuntungan komersial atau kompensasi dalam bentuk uang), kecuali jika Anda menjadikan produk ini untuk bahan ajar atau memberikan pelatihan penggunaan produk dan Anda menerima upah.
 - **Berbagi Serupa** - Apabila Anda menggubah, mengubah, atau membuat turunan dari proyek ini, Anda harus menyebarluaskan kontribusi Anda dibawah lisensi yang sama dengan produk ini
 

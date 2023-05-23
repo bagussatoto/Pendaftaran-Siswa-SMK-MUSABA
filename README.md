@@ -1,15 +1,44 @@
-   
-# [PENDAFTARAN SISWA BARU SMK MUHAMMADIYAH 1 BANTUL]
+<!-- Logo -->
+<br />
+<p align="center">
+    <img src="./assets/img/logo.jpg" alt="Logo" width="" height="">
+  </a>
+
+  <h1 align="center">PENDAFTARAN SISWA BARU SMK MUHAMMADIYAH 1 BANTUL </h1>
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+<!-- Pengertian -->
 **SMK MUSABA** Pendafataran Siswa  SMK MUSABA Merupakan Aplikasi yang dapat digunakan untuk melakukan pendaftaran siswa baru SMK MUSABA. Keguanaanya Memberikan Manfaat untuk meningkatkan kualitas pendidikan SMK MUSABA. disertai dengan fasilitas yang lengkap dan mudah digunakan. 
+
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 # Pembuat Aplikasi Website
 **BAGUS BUDI SATOTO** Selaku Alumni SMK MUHAMMADIYAH 1 BANTUL, saya mengakui bahwa aplikasi ini bermanfaat bagi para siswa SMK MUHAMMADIYAH 1 BANTUL. 
 Dibuat Oleh https://github.com/bagussatoto Selaku Enginnering Web dan Mobile.
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 # Tampilan Dasboard Mahasiswa 
 
-https://i.postimg.cc/HLCYb1sY/SMK-MUSABA.jpg
+<img src="https://github.com/bagussatoto/Pendaftaran-Siswa-/blob/main/assets/img/ppdb1.png" alt="Kepuasan" />
 
+
+
+<!-- https://i.postimg.cc/HLCYb1sY/SMK-MUSABA.jpg -->
+
+
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Instalasi
 
@@ -26,6 +55,10 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
 6. Ubah pengaturan koneksi basis data pada file **dts_sertifikasi**, sesuaikan dengan pengaturan XAMPP Anda (pengaturan default yang dibuat oleh Bagus Satoto adalah pengaturan default untuk XAMPP, Anda hanya perlu mengubah `$databaseName`menjadi nama basis data yang sudah Anda buat).
 7. Ubah juga pengaturan koneksi basis data untuk melakukan absensi dari mesin pada file **db**.
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## Penjelasan
   admin :
   
@@ -39,6 +72,11 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
     - pendaftar melihat peringkat dimenu pemeringkatan setelah dinyatakan diterima
     - jika pendaftar ditolak, pendaftar tidak bisa mendaftar lagi dan bisa mendaftar lagi untuk tahun depan
 
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## Daftar Penggunaan
 
   - admin :
@@ -49,10 +87,17 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
     - username : bagus@yahoo.com
     - password : bagus
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Request Fitur Baru dan Pelaporan Bug
 
-Anda dapat meminta fitur baru maupun melaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+Anda dapat meminta fitur baru maupun melaporkan bug melalui menu [**issues**](https://github.com/bagussatoto/Pendaftaran-Siswa-/issues) yang sudah disediakan oleh GitHub, posting issues baru dan kita akan berdiskusi disana.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Berkontribusi
 

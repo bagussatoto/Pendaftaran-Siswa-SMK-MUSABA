@@ -11,7 +11,7 @@
 <!-- End -->
 
 <!-- Pengertian -->
-**SMK MUSABA** Pendafataran Siswa  SMK MUSABA Merupakan Aplikasi yang dapat digunakan untuk melakukan pendaftaran siswa baru SMK MUSABA. Keguanaanya Memberikan Manfaat untuk meningkatkan kualitas pendidikan SMK MUSABA. disertai dengan fasilitas yang lengkap dan mudah digunakan. 
+**SMK MUSABA** Pendafataran Siswa SMK Muhammadiyah 1 Bantul, Merupakan Aplikasi yang dapat digunakan untuk melakukan pendaftaran siswa baru. Kegunaanya memberikan manfaat untuk meningkatkan kualitas pendidikan SMK MUSABA. disertai dengan fasilitas yang lengkap dan mudah digunakan. 
 
 
 <!-- Garis Lurus -->
